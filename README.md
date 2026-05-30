@@ -28,13 +28,6 @@ Projeto simples de um relógio digital desenvolvido com HTML, CSS e JavaScript.
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
 
-## 📸 Demonstração
-
-Adicione aqui uma imagem ou GIF do projeto.
-
-```md
-![Preview do Projeto](./assets/preview.png)
-```
 
 ## 📚 Aprendizados
 
