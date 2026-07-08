@@ -1,20 +1,20 @@
-# ⏰ Relógio Digital
+# Relógio Digital
 
 Projeto simples de um relógio digital desenvolvido com HTML, CSS e JavaScript.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Exibição de horas, minutos e segundos em tempo real
 * Atualização automática a cada segundo
 * Interface simples e moderna
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 /
@@ -23,13 +23,13 @@ Projeto simples de um relógio digital desenvolvido com HTML, CSS e JavaScript.
 └── script.js
 ```
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
 
 
-## 📚 Aprendizados
+## Aprendizados
 
 Este projeto foi desenvolvido para praticar:
 
@@ -38,6 +38,6 @@ Este projeto foi desenvolvido para praticar:
 * Trabalhar com datas e horários utilizando JavaScript
 * Estruturação de páginas com HTML e CSS
 
-## 👨‍💻 Autor
+## Autor
 
 Feito por **Vitória Dietrich**.
